@@ -1,0 +1,18 @@
+.project1{
+    border: 5px solid;
+    width: 300px;
+    background-color: beige;
+    padding: 10px;
+}
+
+.project2{
+    border: 10px dashed;
+    width: 100px;
+    background-color: aqua;
+    padding: 10px;
+}
+
+div{
+    display: inline-block;
+}
+
